@@ -1,0 +1,10 @@
+커멘드 요약 :
+creat-react-app 으로 프로젝트 생성
+npm init react-app <폴더이름>
+혹은 폴더를 VSCode로 열고 터미널에 npm init react-app .
+
+갭발모드 실행 :
+npm run start
+
+개발모드 종료 :
+ctrl + c 
