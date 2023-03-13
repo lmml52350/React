@@ -8,3 +8,6 @@ npm run start
 
 개발모드 종료 :
 ctrl + c 
+
+
+npm audit fix --force
