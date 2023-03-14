@@ -26,3 +26,6 @@ JSX 문법에서도 태그에 속성을 지정해 줄 수 있습니다. 단, 여
 JSX 문법도 결국은 자바스크립트 문법이기 때문에, for나 class처럼 자바스크립트의 문법에 해당하는 예약어와 똑같은 이름의 속성명은 사용할 수 없습니다.
 그래서 HTML의 for의 경우에는 자바스크립트의 반복문 키워드 for와 겹치기 때문에 htmlFor로, HTML의 class 속성도 자바스크립트의 클래스 
 키워드 class와 겹치기 때문에 className으로 작성해 주어야 합니다.
+
+그리고 JSX 문법도 결국은 자바스크립트 문법이기 때문에 for(반복문)나 class(클래스 선언)처럼 자바스크립트 문법에 해당하는 예약어들은 사용할 수가 없는데요. 
+HTML의 for 속성은 htmlFor로, HTML의 class속성은 className으로 작성해야 합니다. (3번: x, htmlClass -> className)
